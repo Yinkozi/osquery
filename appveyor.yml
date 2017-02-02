@@ -13,7 +13,7 @@ branches:
 #    environment configuration    #
 #---------------------------------#
 
-os: Visual Studio 2015
+os: Windows Driver Kit 10
 
 platform:
   - x64
