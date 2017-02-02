@@ -13,8 +13,6 @@ branches:
 #    environment configuration    #
 #---------------------------------#
 
-os: Windows Driver Kit 10
-
 platform:
   - x64
 
