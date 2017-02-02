@@ -1,0 +1,9 @@
+table_name("go_output")
+description("Store the result of a go program")
+schema([
+    Column("output", TEXT, "Output of a go program"),
+])
+implementation("appcompat_shims@genShims")
+examples([
+  "select * from go_output;",
+])
